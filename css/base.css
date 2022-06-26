@@ -168,3 +168,75 @@
   margin-top: 6%;
   margin-left: 65%;
 }
+.section__zagolovok_voprosi{
+  font-size: 45px;
+  text-align: center;
+  margin-top: 10%;
+}
+.vopros1{
+margin-top: 2%;
+}
+.vopros2{
+  margin-top: 2%;
+}
+.vopros3{
+  margin-top: 2%;
+}
+.vopros4{
+  margin-top: 2%;
+}
+.vopros5{
+  margin-top: 2%;
+}
+.vopros1_1{
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 400px;
+}
+.vopros2_1{
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 400px;
+}
+.vopros3_1{
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 400px;
+}
+.vopros4_1{
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 400px;
+}
+.vopros5_1{
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 400px;
+}
+.vopros1_2{
+  font-size: 18px;
+  margin-top: 0.5%;
+}
+.vopros2_2{
+  font-size: 18px;
+  margin-top: 0.5%;
+}
+.vopros3_2{
+  font-size: 18px;
+  margin-top: 0.5%;
+}
+.vopros4_2{
+  font-size: 18px;
+  margin-top: 0.5%;
+}
+.vopros5_2{
+  font-size: 18px;
+  margin-top: 0.5%;
+}
+.section__button_end{
+  width: 200px;
+  height: 50px;
+  margin-top: 5%;
+  margin: 0 auto;
+  display: block;
+}

@@ -31,6 +31,9 @@ header {
   border-radius: 5%;
   font-family: "Roboto Bold", sans-serif;
 }
+.header__button:hover{
+  background-color: #d1e705;
+}
 .section1 {
   display: flex;
   justify-content: space-between;
@@ -200,6 +203,9 @@ input {
   border-radius: 5%;
   font-family: "Roboto Bold", sans-serif;
 }
+.section__button:hover{
+  background-color: #d1e705;
+}
 .section__faq {
   padding-top: 1%;
 }
@@ -291,3 +297,37 @@ input {
   border-radius: 5%;
   font-family: "Roboto Bold", sans-serif;
 }
+.section__button_end:hover{
+  background-color: #d1e705;
+}
+@media only screen and (max-width: 350px) {
+  #wrapper{
+      max-width: 320px;
+      margin: auto;
+  }
+  .section__zagolovok{
+    
+    display: flex;
+    justify-content: center;
+  }
+  .section1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+      
+    }
+    .section2 {
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .zagolovok3{
+      display: flex;
+    justify-content: center;
+    }
+    .section3{
+      display: flex;
+      flex-direction: column;
+      justify-content: center; 
+    }
+  }

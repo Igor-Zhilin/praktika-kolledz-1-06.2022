@@ -1,0 +1,42 @@
+.section2__zagolovok {
+  font-size: 45px;
+  text-align: center;
+  padding-bottom: 5%;
+  font-family: "Roboto", sans-serif;
+}
+.section2 {
+  display: flex;
+  justify-content: space-around;
+  inline-size: center;
+  padding-bottom: 7%;
+}
+.section__nomber {
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: column;
+}
+.section2__div1_p1 {
+  font-size: 20px;
+  padding-bottom: 5%;
+  font-family: "Roboto", sans-serif;
+}
+
+.section2__div2_p1 {
+  font-size: 20px;
+  padding-bottom: 5%;
+  font-family: "Roboto", sans-serif;
+}
+.section2__div3_p1 {
+  font-size: 20px;
+  padding-bottom: 5%;
+  font-family: "Roboto", sans-serif;
+}
+.section2__div1_p2 {
+  font-family: "Roboto Light", sans-serif;
+}
+.section2__div2_p2 {
+  font-family: "Roboto Light", sans-serif;
+}
+.section2__div3_p2 {
+  font-family: "Roboto Light", sans-serif;
+}

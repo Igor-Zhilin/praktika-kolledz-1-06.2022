@@ -1,0 +1,59 @@
+.section1__four {
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: column;
+}
+.section1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 5%;
+  margin: auto;
+  flex-wrap: wrap;
+}
+.section__zagolovok {
+  font-size: 45px;
+  text-align: center;
+  padding-bottom: 5%;
+  font-family: "Roboto", sans-serif;
+}
+.section__money_text {
+  border-bottom: 1px solid maroon;
+  font-size: 20px;
+  width: 180px;
+  padding-bottom: 5px;
+  font-family: "Roboto", sans-serif;
+}
+.section__group_text {
+  border-bottom: 1px solid maroon;
+  width: 200px;
+  font-size: 20px;
+  padding-bottom: 5px;
+  font-family: "Roboto", sans-serif;
+}
+.section__grouphouse_text {
+  border-bottom: 1px solid maroon;
+  padding-bottom: 5px;
+  font-size: 20px;
+  width: 150px;
+  font-family: "Roboto", sans-serif;
+}
+.section__portfel_text {
+  border-bottom: 1px solid maroon;
+  width: 185px;
+  font-size: 20px;
+  padding-bottom: 5px;
+  font-family: "Roboto", sans-serif;
+}
+.section__money_lorem {
+  font-family: "Roboto Light", sans-serif;
+}
+.section__group_lorem {
+  font-family: "Roboto Light", sans-serif;
+}
+.section__grouphouse_lorem {
+  font-family: "Roboto Light", sans-serif;
+}
+.section__portfel_lorem {
+  font-family: "Roboto Light", sans-serif;
+}

@@ -1,0 +1,94 @@
+.section__faq {
+  padding-top: 1%;
+}
+.section__zagolovok_voprosi {
+  font-size: 45px;
+  text-align: center;
+  margin-top: 10%;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 5%;
+}
+.vopros1 {
+  padding-bottom: 2%;
+}
+.vopros2 {
+  padding-bottom: 2%;
+}
+.vopros3 {
+  padding-bottom: 2%;
+}
+.vopros4 {
+  padding-bottom: 2%;
+}
+.vopros5 {
+  padding-bottom: 2%;
+}
+.vopros1_1 {
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 450px;
+  font-family: "Roboto", sans-serif;
+}
+.vopros2_1 {
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 450px;
+  font-family: "Roboto", sans-serif;
+}
+.vopros3_1 {
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 450px;
+  font-family: "Roboto", sans-serif;
+}
+.vopros4_1 {
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 450px;
+  font-family: "Roboto", sans-serif;
+}
+.vopros5_1 {
+  font-size: 25px;
+  border-bottom: 1px solid maroon;
+  width: 450px;
+  font-family: "Roboto", sans-serif;
+}
+.vopros1_2 {
+  font-size: 18px;
+  margin-top: 0.5%;
+  font-family: "Roboto", sans-serif;
+}
+.vopros2_2 {
+  font-size: 18px;
+  margin-top: 0.5%;
+  font-family: "Roboto", sans-serif;
+}
+.vopros3_2 {
+  font-size: 18px;
+  margin-top: 0.5%;
+  font-family: "Roboto", sans-serif;
+}
+.vopros4_2 {
+  font-size: 18px;
+  margin-top: 0.5%;
+  font-family: "Roboto", sans-serif;
+}
+.vopros5_2 {
+  font-size: 18px;
+  margin-top: 0.5%;
+  padding-bottom: 3%;
+  font-family: "Roboto", sans-serif;
+}
+.section__button_end {
+  width: 200px;
+  height: 50px;
+  margin-top: 5%;
+  margin: 0 auto;
+  display: block;
+  background-color: #b5ca00;
+  border-radius: 5%;
+  font-family: "Roboto Bold", sans-serif;
+}
+.section__button_end:hover {
+  background-color: #d1e705;
+}

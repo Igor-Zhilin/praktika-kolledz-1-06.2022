@@ -1,0 +1,75 @@
+.section__anketa {
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+}
+.zagolovok3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.section3 {
+  display: flex;
+  inline-size: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: blueviolet;
+  justify-content: space-around;
+  padding-top: 5%;
+}
+.section__anketa_img {
+  margin-top: -3%;
+}
+.section__background {
+  background: blueviolet;
+  height: 500px;
+}
+.first_two {
+  display: flex;
+  flex-direction: column;
+}
+.second_two {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  font-family: "Roboto Light", sans-serif;
+}
+.section__fio {
+  font-size: 30px;
+
+  padding-bottom: 5%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.section__data {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+#start {
+  width: 365px;
+}
+.section__tel {
+  font-size: 30px;
+  padding-bottom: 5%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.section__citizenship {
+  font-size: 30px;
+  padding-bottom: 7%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+#citizenship {
+  width: 370px;
+}
+.section__button {
+  width: 300px;
+  height: 50px;
+  background-color: #b5ca00;
+  border-radius: 5%;
+  font-family: "Roboto Bold", sans-serif;
+}
+.section__button:hover {
+  background-color: #d1e705;
+}

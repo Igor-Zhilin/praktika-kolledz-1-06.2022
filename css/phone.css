@@ -1,0 +1,128 @@
+@media only screen and (max-width: 350px) {
+  #wrapper {
+    max-width: 350px;
+    margin: auto;
+  }
+  .section__zagolovok {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+  .section1 {
+  }
+  .section2 {
+    display: flex;
+    flex-flow: column;
+  }
+  .section2__div1_p2 {
+    padding-bottom: 5%;
+  }
+  .section2__div2_p2 {
+    padding-bottom: 5%;
+  }
+  .section2__div3_p2 {
+    padding-bottom: 5%;
+  }
+  .section__anketa_img {
+    margin-top: -45px;
+  }
+  .zagolovok3 {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+  }
+  .section3 {
+    height: 500px;
+  }
+  .section1__four {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+  }
+  .section__nomber {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+  }
+  .section3 {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+    height: 400px;
+  }
+  .section__anketa {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+  }
+  .section__fio {
+    font-size: 25px;
+  }
+  .section__data {
+    font-size: 25px;
+  }
+  .section__tel {
+    font-size: 25px;
+  }
+  .section__citizenship {
+    font-size: 25px;
+  }
+  input {
+    width: 300px;
+  }
+  #citizenship {
+    width: 300px;
+  }
+  #start {
+    width: 300px;
+  }
+  .section__girl_img {
+    display: none;
+  }
+  .div1_img {
+    display: none;
+  }
+  .section__anketa_img {
+    display: none;
+  }
+  .section__money_lorem {
+    padding-bottom: 10%;
+  }
+  .section__group_lorem {
+    padding-bottom: 10%;
+  }
+  .section__grouphouse_lorem {
+    padding-bottom: 10%;
+  }
+  .section__portfel_lorem {
+    padding-bottom: 10%;
+  }
+  #vopros1 {
+    font-size: 18px;
+    border-bottom: 1px solid maroon;
+    width: 330px;
+  }
+  .header__text {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+  }
+  .header__button {
+    display: none;
+  }
+  .section__faq {
+    line-height: 1.5;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .section__button_end {
+    display: none;
+  }
+}

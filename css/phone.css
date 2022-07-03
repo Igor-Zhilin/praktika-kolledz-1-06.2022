@@ -75,14 +75,19 @@
   .section__citizenship {
     font-size: 25px;
   }
-  input {
-    width: 300px;
-  }
+  
   #citizenship {
-    width: 300px;
+    width: 280px;
+    
+  }
+  #name{
+    width: 275px;
+  }
+  #phone{
+    width: 275px;
   }
   #start {
-    width: 300px;
+    width: 280px;
   }
   .section__girl_img {
     display: none;
@@ -108,7 +113,8 @@
   #vopros1 {
     font-size: 18px;
     border-bottom: 1px solid maroon;
-    width: 330px;
+    width: 280px;
+    
   }
   .header__text {
     display: flex;
@@ -123,6 +129,23 @@
     line-height: 1.5;
     padding-left: 2%;
     padding-right: 2%;
+    width: 280px;
+    margin: auto;
+  }
+  .vopros1_2{
+padding-bottom: 4%;
+  }
+  .vopros2_2{
+    padding-bottom: 4%;
+  }
+  .vopros3_2{
+    padding-bottom: 4%;
+  }
+  .vopros4_2{
+    padding-bottom: 4%;
+  }
+  .vopros5_2{
+    padding-bottom: 4%;
   }
   .section__button_end {
     display: none;
